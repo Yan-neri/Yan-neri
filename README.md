@@ -1,16 +1,43 @@
-## Hi there 👋
+# Portfólio de Projetos - Yan Fellipe da Silva Neri 👨‍💻
+Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia de Software**, apaixonado por tecnologia, desenvolvimento de sistemas e por aprender continuamente. Este repositório reúne meus projetos acadêmicos e pessoais, aplicando boas práticas de versionamento, documentação e colaboração com Git e GitHub. Aqui você encontrará desde desafios do curso até experimentos e ideias próprias.
 
-<!--
-**Yan-neri/Yan-neri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos durante minha graduação em Engenharia de Software. O objetivo é demonstrar minhas habilidades técnicas em constante desenvolvimento e meu progresso na área.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Estrutura do Repositório
+
+- `projetos academicos/`: Projetos feitos para disciplinas ou desafios do curso.
+  
+---
+## Competências
+
+- Inglês Intermediário
+- Pacote Office / Google Docs
+- Pensamento Lógico e Analítico
+- Boa comunicação e trabalho em equipe
+- Capacidade de Resolução de problemas
+- Organização e Responsabilidade
+---
+
+
+## 🔧 Tecnologias Utilizadas
+
+- Git & GitHub
+- C#
+- Google Docs
+- Google Slides
+- Youtube
+- Google Calendar
+---
+
+## 🔗 Integrações
+
+- [Meu LinkedIn](https://www.linkedin.com/in/yan-fellipe-a5a100360/)
+- [Vídeo de apresentação]()
+
+---
+
+## 📌 Observações
+
+Sinta-se à vontade para explorar os projetos, sugerir melhorias ou colaborar via pull requests!
