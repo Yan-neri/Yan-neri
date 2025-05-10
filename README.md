@@ -33,8 +33,8 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
   <img align="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
   <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
   <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" />
-  <img align="center" alt="Google" src="https://img.shields.io/badge/Google_Slides-Apresentação-green?logo=google-slides&logoColor=white" />
-  <img align="center" alt="Google" src="https://img.shields.io/badge/Google_Calendar-blue?logo=google-calendar&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Sites-174EA6?style=for-the-badge&logo=google-sites&logoColor=blue"" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Calendar-A50E0E?style=for-the-badge&logo=google-sites&logoColor=white" />
   <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div><br/>
 
