@@ -30,7 +30,11 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img align="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img align="center" alt="workspace" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google_Slides-Apresentação-green?logo=google-slides&logoColor=white" />
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google_Calendar-blue?logo=google-calendar&logoColor=white" />
+  <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div><br/>
 
 ---
