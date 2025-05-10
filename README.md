@@ -5,6 +5,7 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
 
 [![Yan-neri GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yan-neri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-neri)](https://github.com/Yan-neri/github-readme-stats)
 ---
 
 ## 📁 Estrutura do Repositório
