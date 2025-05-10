@@ -5,7 +5,7 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
 
 [![Yan-neri GitHub stats-Dracula](https://github-readme-stats.vercel.app/api?username=Yan-neri&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Yan-neri/github-readme-stats#gh-dracula-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-neri)](https://github.com/Yan-neri/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-neri&size_weight=0.5&count_weight=0.5)
 
 
 ---
