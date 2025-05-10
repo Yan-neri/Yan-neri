@@ -3,6 +3,8 @@ Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia 
 
 Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos durante minha graduação em Engenharia de Software. O objetivo é demonstrar minhas habilidades técnicas em constante desenvolvimento e meu progresso na área.
 
+[![Yan-neri GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yan-neri&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 ---
 
 ## 📁 Estrutura do Repositório
@@ -23,12 +25,14 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
 
 ## 🔧 Tecnologias Utilizadas
 
-- Git & GitHub
-- C#
-- Google Docs
-- Google Slides
-- Youtube
-- Google Calendar
+  <div style="display: inline_block">
+  <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img align="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img align="center" alt="workspace" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
+</div><br/>
+
 ---
 
 ## 🔗 Integrações
