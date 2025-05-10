@@ -33,7 +33,8 @@ Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos dura
 
 ## 🔗 Integrações
 
-- [Meu LinkedIn](https://www.linkedin.com/in/yan-fellipe-a5a100360/)
+
+- [[Meu LinkedIn](https://www.linkedin.com/in/yan-fellipe-a5a100360/)](https://www.linkedin.com/in/yan-fellipe-a5a100360/)
 - [Vídeo de apresentação]()
 
 ---
