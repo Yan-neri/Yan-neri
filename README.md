@@ -1,4 +1,4 @@
-# Portfólio de Projetos - Yan Fellipe da Silva Neri 👨‍💻
+# Yan Fellipe da Silva Neri 👨‍💻
 Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia de Software**, interessado por tecnologia, desenvolvimento de sistemas e por aprender continuamente. Este repositório reúne meus projetos acadêmicos e pessoais, aplicando boas práticas de versionamento, documentação e colaboração com Git e GitHub. Aqui você encontrará desde desafios do curso até experimentos e ideias próprias.
 
 
