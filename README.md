@@ -18,7 +18,7 @@ Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia 
 ---
 
 
-## 🔧 Tecnologias Utilizadas
+## 🔧 Habilidades
 
   <div style="display: inline_block">
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
