@@ -3,7 +3,7 @@ Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia 
 
 Este repositório reúne meus projetos acadêmicos e pessoais desenvolvidos durante minha graduação em Engenharia de Software. O objetivo é demonstrar minhas habilidades técnicas em constante desenvolvimento e meu progresso na área.
 
-[![Yan-neri GitHub stats-Dracula](https://github-readme-stats.vercel.app/api?username=Yan-neri&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Yan-neri/github-readme-stats#gh-dracula-mode-only)
+![![Yan-neri GitHub stats-Dracula](https://github-readme-stats.vercel.app/api?username=Yan-neri&show_icons=true&theme=dracula#gh-dracula-mode-only)](https://github.com/Yan-neri/github-readme-stats#gh-dracula-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-neri&size_weight=0.5&count_weight=0.5)
 
