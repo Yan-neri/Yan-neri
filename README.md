@@ -38,7 +38,7 @@ Olá! Meu nome é **Yan Fellipe da Silva Neri** e sou estudante de **Engenharia 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-fellipe-a5a100360/)
-[![Vídeo de apresentação](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Vídeo de apresentação](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/iXWDd2F5GxQ)
 
 ---
 
